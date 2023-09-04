@@ -2458,7 +2458,7 @@ body.safari .section_has_divider,body.uiwebview .section_has_divider{
         padding:0
     }
     .et_pb_column{
-        width:100%;
+        width:110%;
         margin-bottom:30px
     }
     .et_pb_bottom_divider .et_pb_row:nth-last-child(2) .et_pb_column:last-child,.et_pb_row .et_pb_column.et-last-child,.et_pb_row .et_pb_column:last-child{
